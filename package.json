@@ -1,0 +1,17 @@
+{
+  "name": "socket-datinee",
+  "version": "1.0.0",
+  "description": "socket, express, typescript,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket",
+    "express",
+    "mongosee",
+    "redis"
+  ],
+  "author": "datinee",
+  "license": "ISC"
+}
